@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28633" started-at="2018-04-05T11:27:36Z" finished-at="2018-04-05T11:28:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28633" started-at="2018-04-05T11:27:36Z" finished-at="2018-04-05T11:28:05Z">
+      <class name="Flipkart.home.Home">
+        <test-method status="PASS" signature="get()[pri:0, instance:Flipkart.home.Home@5702b3b1]" name="get" duration-ms="28615" started-at="2018-04-05T16:57:36Z" finished-at="2018-04-05T16:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- Flipkart.home.Home -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
